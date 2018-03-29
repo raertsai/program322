@@ -1,6 +1,0 @@
-C:\Users\USER\Desktop\322program\lottery\lottery\bin\Debug\lottery.exe.config
-C:\Users\USER\Desktop\322program\lottery\lottery\bin\Debug\lottery.exe
-C:\Users\USER\Desktop\322program\lottery\lottery\bin\Debug\lottery.pdb
-C:\Users\USER\Desktop\322program\lottery\lottery\obj\Debug\lottery.csprojResolveAssemblyReference.cache
-C:\Users\USER\Desktop\322program\lottery\lottery\obj\Debug\lottery.exe
-C:\Users\USER\Desktop\322program\lottery\lottery\obj\Debug\lottery.pdb

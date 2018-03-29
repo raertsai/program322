@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{DDCBEABC-D48B-4CDD-84B0-34FC6D520225}</ProjectGuid>
+    <ProjectGuid>{11D8A611-86E2-4926-8350-A687C2E7578A}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>lottery</RootNamespace>
-    <AssemblyName>lottery</AssemblyName>
+    <RootNamespace>_322practice</RootNamespace>
+    <AssemblyName>322practice</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
